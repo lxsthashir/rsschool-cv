@@ -21,6 +21,13 @@
 <li><b>CSS</b>
 <li><b>JavaScript(Basic)</b>
 </ul>
+<h3>Language</h3>
+<ul>
+<li><b>Polish</b>
+<li><b>Russian</b>
+<li><b>English</b>
+<li><b>Belarusian</b>
+</ul>
 <h3>Education</h3>
 <ul>
 <li><b>School:</b> 11 education classes in Kopische High School №1
