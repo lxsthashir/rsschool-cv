@@ -10,7 +10,7 @@
 <li><b>Email:</b> gurinowich2002@gmail.com
 <li><b>GitHub:</b> lxsthashir
 <li><b>Discord:</b> asdqwe#1019
-<li><b>LinkedIn:</b><a href="https://www.linkedin.com/in/ivan-hurynovich-b8615b261">Ivan Hurynovich</a>
+<li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ivan-hurynovich-b8615b261">Ivan Hurynovich</a>
 </ul>
 <h3>About Me</h3>
 <p>At the moment I am studying at the university Collegium Da Vinci, at the Faculty of Informatics (1 course)<p>
